@@ -1,7 +1,7 @@
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application is just taken from the [quickstart tutorial](https://guides.emberjs.com/release/getting-started/quick-start/) at emberjs.com. I've added Bootstrap and used the reqres API in the programmers route so I could learn a bit more.
 
 ## Prerequisites
 
